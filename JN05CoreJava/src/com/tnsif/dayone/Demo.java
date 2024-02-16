@@ -3,8 +3,8 @@ package com.tnsif.dayone;
 
 import java.util.Scanner;
 
-import com.tnsif.daytwo.Student;
-import com.tnsif.daytwo.StudentResult;
+import com.tnsif.dayfour.Student;
+import com.tnsif.dayfour.StudentResult;
 
 public class Demo {
 

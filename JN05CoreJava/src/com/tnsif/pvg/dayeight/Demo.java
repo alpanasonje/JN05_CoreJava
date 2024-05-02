@@ -1,5 +1,7 @@
 package com.tnsif.pvg.dayeight;
 
+import java.util.List;
+
 public class Demo {
 
 	public static void main(String[] args) {
@@ -17,7 +19,6 @@ public class Demo {
 		iObj=(name)->{
 			return ("Good Morning " + name);
 			};
-		System.out.println(iObj.sayHello("Students"));
-		
+		System.out.println(iObj.sayHello("Students"));			
 	}
 }
